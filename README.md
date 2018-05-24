@@ -1,0 +1,2 @@
+# Seccionadora
+cnc corta paneles
